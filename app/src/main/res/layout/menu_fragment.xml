@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/menu_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#010842"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView1"
+        style="@style/menutextstyle"
+        android:layout_marginBottom="3dp"
+        android:text="Chat History" />
+
+    <TextView
+        android:id="@+id/textView2"
+        style="@style/menutextstyle"
+        android:text="Memory usage"
+        android:layout_marginBottom="3dp"/>
+
+    <TextView
+        android:id="@+id/textView3"
+        style="@style/menutextstyle"
+        android:text="Settings"
+        android:layout_marginBottom="3dp"/>
+    <TextView
+        android:id="@+id/textView4"
+        style="@style/menutextstyle"
+        android:text="Rate this App"
+        android:layout_marginBottom="3dp"/>
+</LinearLayout>

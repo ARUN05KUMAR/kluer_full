@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348484223745",
+    "project_id": "personal-memory-assistan-aeb43",
+    "storage_bucket": "personal-memory-assistan-aeb43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348484223745:android:58897e4f303ad7bb391100",
+        "android_client_info": {
+          "package_name": "com.example.our_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA21emclnZDxKQJHAjR61NyhmhlrKztNiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
